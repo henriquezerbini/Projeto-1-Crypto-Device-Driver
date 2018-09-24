@@ -1,3 +1,31 @@
 Comandos GIT(OBS: no Windows tem que usar o gitbash, no linux podemos usar diretamente o terminal).
 
+
+
 *git clone <url> ----------------->>>> Faz o download de um repositorio git para seu pc
+
+
+*touch <nome arquivo> ---------------->>>>>> Cria um arquivo novo.
+
+*git add <nome arquivo> -------------->>>>> fala pro git que esse eh um arquivo que vc quer acompanhar as mudancas quando vc fizer o proximo save.
+
+*git commit -m "message" ------------>>>>>>>>>>> salva o diretorio.
+
+*git status ------->>> fala oq esta acontecendo com o repositorio no exato momento
+
+*git push ------>>>> manda as mudancas feitas no diretorio para o github.
+
+*git pull ------->>>> baixa as ultimas modificacoes do repositorio
+
+** merge conflict eh quando o git n consegue juntar seu codigo com o codigo atual do repositorio, assim gera um arquivo com as diferencas entre os dois.
+
+*git log ------->>>>> mostra p/ vc um historico do que vc fez
+
+*git reset
+	->	git reset --hard <commit> -------->>>>>> volta seu repositorio para o commit que vc enviou como parametro
+	->	git reset --hard origin/master -------->>>>>> volta seu repositorio para o estado que estava no github
+
+
+
+
+
