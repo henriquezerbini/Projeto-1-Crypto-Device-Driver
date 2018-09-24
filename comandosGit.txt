@@ -1,0 +1,3 @@
+Comandos GIT(OBS: no Windows tem que usar o gitbash, no linux podemos usar diretamente o terminal).
+
+*git clone <url> ----------------->>>> Faz o download de um repositorio git para seu pc
